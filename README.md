@@ -34,5 +34,5 @@ ___
 ___
 ## Contributors:
 * Shreesha S (shreesha.suresh@gmail.com)
-* Rakshith S Singh (r7.silverfox@gmail.com)
+* Rakshith S Singh (rakshithsinghgm@gmail.com)
 * S Rajesh Kumar (rajesh.kumar1995@gmail.com)
