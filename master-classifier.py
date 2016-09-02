@@ -1,11 +1,11 @@
-######################################################################
-#                                                                    #
-#                  Title: master-classifier.py                       #      
-#   Project: Automated Detection and Removal of Ads in Audio Clips   #
-#     Contributors: Shreesha S, S Rajesh Kumar, Rakshith S Singh     #
-#  Email: {shreesha.suresh,rajesh.kumar1995,r7.silverfox}@gmail.com  #
-#                                                                    #
-######################################################################
+############################################################################
+#                                                                          #
+#                  Title: master-classifier.py                             #      
+#   Project: Automated Detection and Removal of Ads in Audio Clips         #
+#     Contributors: Shreesha S, S Rajesh Kumar, Rakshith S Singh           #
+#  Email: {shreesha.suresh,rajesh.kumar1995,r7.rakshithsinghgm}@gmail.com  #
+#                                                                          #
+############################################################################
 
 import pandas as pd
 import scipy
